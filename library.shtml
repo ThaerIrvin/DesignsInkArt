@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="author" content="Chris A Paschke, Chris Paschke, Chris A Paschke CPF GCF, Chris Pashke, Pashke">
+	<meta name="description" content="Original fine art, prints, note cards, notecards, cards, Paschke cards, greeting cards, Chris Paschke cards, chris pashke cards, licensed art, gift cards, abstract, sumi-e, collage, Asian, floral, calligraphy, encaustic, nudes, Designs Ink Float Frames, Sink Mount Frames, Article Archive and Research Library">
+	<meta name="keywords" content="Art, art, fine art, note cards, notecards, greeting cards, Tehachapi artist, Tehachapi, West Coast encaustic artist, international encaustic artists, original art, fine art, Asian art, Sumi-e painting, Asian calligraphy, Chinese characters, Chinese calligraphy, contemporary Chinese calligraphy, Paschke Asian art, encaustic framing, picture framing, Chris Paschke, Chris A Paschke CPF GCF, abstract expressionism, encaustics, open edition reproductions, calligraphy, logo design, wild apple graphics, platform float frames, sink mount frames, step float frames, mounting specialist, mounting books, mastering mounting, custom picture framing, dip online, article archive, reference library, The Mounting And Laminating Handbook">
+
+	<title>Chris Paschke - Library</title>
+
+	<link rel="stylesheet" type="text/css" href="format.css" />
+	<link rel="shortcut icon" href="http://www.designsinkart.com/favicon.ico">
+
+</head>
+
+<header>
+	<!--#include virtual="/navbar.htm"-->     
+</header>
+
+<body>
+     
+	<div class="title"><img src="images/LibHead.gif" alt="Library"></div>
+
+    <hr>
+
+	<p class="liblin"><a href="articles-subject.shtml">Articles by Subject</a></p>
+
+	<p class="liblin"><a href="articles-title.shtml">Articles by Title</a></p>
+
+    <p>Designs Ink is proud to announce the launch of <b>Paschke Online: Designs Ink Publishing Article Archive and Reference Library</b>, a record of over twenty years of articles and research data from Chris A Paschke's assorted mounting, laminating and design columns originally written for the picture framing industry. As the foremost authority on mounting she has written four books, been a columnist and mounting editor for <u>Picture Framing Magazine</u>, as well as contributing writer for <u>Art Expressions Magazine</u>, <u>Art Business Today</u>, <u>Decor Magazine</u>, <u>Decor International</u>, <u>GLAC LA Framer</u>, <u>ILFOPRO Newsletter</u>, <u>IEA Wax-On</u>, <u>PMA-For Members Only</u>, <u>The Pastel Journal</u> and <u>Watercolor Artist Magazine</u>.</p>
+
+    <p>Custom picture framing has evolved a great deal since she and her father began framing back in 1970. At that time it was common practice to use masking tape to attach the art to the mat, and corrugated cardboard as a backing board and filler. Heavyweight gray chip board was also a very popular substrate, and spray mount was the mounting method of choice. Custom framing is a state-of-the-art business where techniques evolve along with materials. Today, use of museum glass and reversible hinging techniques have taken custom framing to the level found in many museums and always in high end galleries.</p>
+	
+	<p>The earliest articles in this library are from 1991, when the evils of spray mounting were just beginning to become known and foam center boards became God's gift to framers. All the earliest articles remain in the library as a reference and walk through history. Following the earlier days of mounting a RC--resin coated--photograph through to the issues surrounding the heat sensitivities of 21st century digital photographs is an interesting journey.</p>
+
+	<p>The library is meant to be a resource for everyone from framer to artist. It is perfect for new framers who need to know all the basics from materials to technique, and also for framers with decades of experience who just want to read up on digitals to make sure they are doing the right thing. From manual spray mounting in 1970, to dry mounting with a heated vacuum press in 1985, to cold roller laminators in 2009. The times have changed, and so have the articles. Enjoy the library and feel free to contact Chris Paschke at Designs Ink, <a href="mailto:info@designsinkart.com">info@designsinkart.com</a> with additional questions. </p>
+
+	<div style="height: 50px;"></div>
+
+	<p style="text-align: center;">Books are available through 
+		<a href="https://www.framedestination.com/" target="_blank">Frame Destination</a>, 
+		<a href="https://www.lionpic.co.uk/" target="_blank">LION</a>, 
+		PPFA and PFM PubCo bookstores.</p>
+
+	<div style="height: 20px;"></div>	
+	
+	<p style="text-align: center;">You may also purchase autographed copies of all books directly from Designs Ink Publishing.</p>
+	<p style="text-align: center;"><a href="handbook3.htm" target="_blank">The Mounting And Laminating Handbook, THIRD EDITION, 2008</a>;</p>
+    <p style="text-align: center;"><a href="handbook.htm" target="_blank">The Mounting And Laminating Handbook, SECOND EDITION, 2002</a>; or</p>
+	<p style="text-align: center;"><a href="creative.htm" target="_blank">Creative Mounting, Wrapping and Laminating, 1999</a></p>
+
+	<div style="height: 20px;"></div>	
+	
+	<p style="text-align: center;">Dealer discounts on books by the case are available, call or email for price quotes.<br> 
+		Email us at <a href="mailto:order@designsinkart.com">order@designsinkart.com</a> for details of our special three book price--buy two get one free!</p>
+
+</body>
+
+<footer>
+	<!--#include virtual="/footer.htm"-->
+</footer>
+
+</html>

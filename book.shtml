@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="author" content="Chris A Paschke, Chris Paschke, Chris A Paschke CPF GCF, Chris Pashke, Pashke">
+	<meta name="description" content="Original fine art, prints, note cards, notecards, cards, Paschke cards, greeting cards, Chris Paschke cards, chris pashke cards, licensed art, gift cards, abstract, sumi-e, collage, Asian, floral, calligraphy, encaustic, nudes, Designs Ink Float Frames, Sink Mount Frames, Article Archive and Research Library">
+	<meta name="keywords" content="Art, art, fine art, note cards, notecards, greeting cards, Tehachapi artist, Tehachapi, West Coast encaustic artist, international encaustic artists, original art, fine art, Asian art, Sumi-e painting, Asian calligraphy, Chinese characters, Chinese calligraphy, contemporary Chinese calligraphy, Paschke Asian art, encaustic framing, picture framing, Chris Paschke, Chris A Paschke CPF GCF, abstract expressionism, encaustics, open edition reproductions, calligraphy, logo design, wild apple graphics, platform float frames, sink mount frames, step float frames, mounting specialist, mounting books, mastering mounting, custom picture framing, dip online, article archive, reference library, The Mounting And Laminating Handbook">
+
+	<title>Designs Ink Publishing</title>
+
+	<link rel="stylesheet" type="text/css" href="format.css" />
+	<link rel="shortcut icon" href="http://www.designsinkart.com/favicon.ico">
+
+</head>
+
+<header>
+	<!--#include virtual="/navbar.htm"-->     
+</header>
+
+<body>
+			
+	<div class="title"><img src="images/BookHead.gif" alt="Books"></div>
+
+  	<hr>
+
+	<p>Designs Ink Publishing was founded in 1997 in order to promote the educational expertise of educators in the picture framing industry. Currently the publications printed by us have been targeting the trade only, though there are many aspects of them that touch the needs of artist/framers and craftspeople alike.</p>
+	
+	<div style="height: 35px;"></div>
+
+    <img style="margin-left: 5%; max-width: 90%;" src="images/Author.gif" alt="Chris A. Paschke, CPF GCF">
+  
+	<p>A second generation professional picture framer (since 1970) Chris received CPF (Certified Picture Framer) status from the Professional Picture Framers Association (PPFA) in 1986 and GCF (Guild Commended Framer) status from Fine Art Trade Guild (FATG) 1997 in England.</p>
+
+	<p>Chris has been chair of the PPFA Competition Board since 2003 and continues to work on continuing education and assorted committees in an advisory capacity. She remains on both the PPFA and PFM faculties and her ongoing industry affiliations include ANSI, ASTM, FATG, Larson-Juhl, Hobby Publications, PMA, Nielsen Bainbridge, Artaissance, Roma Home Decor, and Wild Apple Graphics.</p>
+	  
+	<p>She has been Technical Mounting Editor for <u>Picture Framing Magazine</u> since 1991, featuring her monthly column &quot;Mastering Mounting&quot;. Her first book <i>The Mounting And Laminating Handbook</i>, was published in August 1997. The second edition was launched August 2002, and her third edition is currently available through this website having hit market shelves in March 2008. Chris is a well known creative framing designer, author, educator and consultant who lectures, and demonstrates at industry events around the country. Though she teaches competition judging, as well as principles of framing layout and design, she specializes in mounting, laminating and creative matting techniques. Her innovative book, <i>Creative Mounting, Wrapping, and Laminating </i>was released at the West Coast Art and Framing Show, January 2003. Her first design book <i>Principles of Framing Design</i> was put on hold but is currently being considered as an eBook or PDF release rather than a bound version. There are numerous articles about framing design in our Design Princliples section of the library, Articles by Subject. <a href="library.shtml">Library</a></p>
+	  
+	<p>Available publications include all three books currently in print from Chris A. Paschke, CPF GCF.</p>
+	  
+	<p>Click links for detailed information.</p>
+	
+  	<div style="margin:50px 5%">
+		<p style="margin-bottom: 50px;">
+			<a href="handbook3.htm" target="_blank"><i>The Mounting and Laminating Handbook, THIRD EDITION</i></a><br>
+ 			ISBN 0-9657625-4-8<br>
+ 			$24.95 USD<br>
+			<a href="OF-Book3-2020.pdf" target="_blank">Mounting Book Order Form</a>
+		</p>
+		
+		<p style="margin-bottom: 50px;">
+			<a href="handbook.htm" target="_blank"><i>The Mounting and Laminating Handbook, SECOND EDITION</i></a><br>
+ 			ISBN 0-9657625-2-1<br>
+ 			$19.95 USD<br>
+			<a href="Buy2Get1FREE-2020.pdf" target="_blank">FREE Book Offer</a><br>
+			<a href="OF-Buy2-2020.pdf" target="_blank">FREE Book Order Form</a>
+			</p>
+		
+ 	   	<p style="margin-bottom: 50px;">
+			<i><a href="creative.htm" target="_blank">Creative Mounting, Wrapping and Laminating</a></i><br>
+			ISBN 0-9657625-1-3<br>
+ 			$19.95 USD<br>
+			<a href="OF-Creative-2020.pdf" target="_blank">Creative Book Order Form</a>
+		</p>
+		
+ 	   	<p>
+			<i><a href="design.htm" target="_blank">The Principles of Framing Design, TBA</a></i><br>
+			ISBN 0-9657625-3-X<br>
+			TBA-possibly online
+		</p>
+		
+	</div>
+	  
+  	<p>Books are available through various local distributors, PPFA and PFM PubCo bookstores. Websites for known suppliers may be found <u><a href="links.shtml">here</a></u>. If you have trouble locating your copy of <b><i>The Mounting And Laminating Handbook, THIRD EDITION</i></b>, or <b><i>Creative Mounting, Wrapping and Laminating </i></b>you may order them directly from Designs Ink Publishing.</p>
+  	<p>Email us at: <a HREF="mailto:info@designsinkart.com">info@designsinkart.com</a> or <u><a href="mailto:order@designsinkart.com">order@designsinkart.com</a></u> for questions concerning volume purchasing.</p>
+
+</body>
+
+<footer>
+	<!--#include virtual="/footer.htm"-->
+</footer>
+
+</html>

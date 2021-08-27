@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="author" content="Chris A Paschke, Chris Paschke, Chris A Paschke CPF GCF, Chris Pashke, Pashke">
+	<meta name="description" content="Original fine art, prints, note cards, notecards, cards, Paschke cards, greeting cards, Chris Paschke cards, chris pashke cards, licensed art, gift cards, abstract, sumi-e, collage, Asian, floral, calligraphy, encaustic, nudes, Designs Ink Float Frames, Sink Mount Frames, Article Archive and Research Library">
+	<meta name="keywords" content="Art, art, fine art, note cards, notecards, greeting cards, Tehachapi artist, Tehachapi, West Coast encaustic artist, international encaustic artists, original art, fine art, Asian art, Sumi-e painting, Asian calligraphy, Chinese characters, Chinese calligraphy, contemporary Chinese calligraphy, Paschke Asian art, encaustic framing, picture framing, Chris Paschke, Chris A Paschke CPF GCF, abstract expressionism, encaustics, open edition reproductions, calligraphy, logo design, wild apple graphics, platform float frames, sink mount frames, step float frames, mounting specialist, mounting books, mastering mounting, custom picture framing, dip online, article archive, reference library, The Mounting And Laminating Handbook">
+
+	<title>Chris Paschke - Gallery</title>
+
+	<link rel="stylesheet" type="text/css" href="format.css" />
+	<link rel="shortcut icon" href="http://www.designsinkart.com/favicon.ico">
+
+</head>
+
+<header>
+	<!--#include virtual="/navbar.htm"-->     
+</header>
+
+<body>
+
+	<div class="title"><img src="images/GalHead.gif" alt="Gallery"></div>
+
+	<hr> 
+
+	<p>Chris Paschke, artist and calligraphic designer, holds a degree in Creative Arts and Design, whose art regularly appears in juried shows and publications, fine art books, and exhibitions throughout the world. Having signed with Wild Apple Graphics, Woodstock, VT in the 1990s as an open edition artist, her reproductions are sold in retail stores and on the internet. For an up-to-date gallery of her available current and out-of-print open edition reproductions visit the PRINTS gallery with the link found at the bottom of this page. She has illustrated numerous books with her simple Asian images including <i>Feng Shui</i> and the <i>Feng Shui Journal</i> for Peter Pauper Press.</p>
+	<p>Her originals offer an assortment of encaustic, mixed media, collage, acrylic, watercolor, gouache, and ink on neutral pH papers. Subject matter ranges from Eastern to Western interpretive concepts and feature abstract expressionism, minimalism and texture in her unique interpretive style in a wide variety of topics.</p>
+	<p>The gallery has been divided into theme groups. As you venture into the themed gallery of your choosing there will again be thumbnail images featuring a small section of the whole original image. Single click the image of your choice for the full view of the completed original and description of mediium, size, and retail price.</p>
+
+	<!--#include virtual="/gallerylist.htm"-->
+
+	<div class="gallery">
+		<a href="abstracts.shtml"><img src="_derived/gallery.htm_txt_Abstract_Button.gif" alt="Abstract_Button"></a>
+		<a href="animals.shtml"><img src="_derived/gallery.htm_txt_Animals_Button.gif" alt="Animals_Button"></a>
+		<a href="asian.shtml"><img src="_derived/gallery.htm_txt_Asian_Button.gif" alt="Asian_Button"></a>
+		<a href="bamboo.shtml"><img src="_derived/gallery.htm_txt_Bamboo_Button.gif" alt="Bamboo_Button"></a>
+		<a href="bath.shtml"><img src="_derived/gallery.htm_txt_Bath_Button.gif" alt="Bath_Button"></a>
+		<a href="birds.shtml"><img src="_derived/gallery.htm_txt_Birds_Button.gif" alt="Birds_Button"></a>
+		<a href="calligraphy.shtml"><img src="_derived/gallery.htm_txt_Calligraphy_Button.gif" alt="Calligraphy_Button"></a>
+		<a href="characters.shtml"><img src="_derived/gallery.htm_txt_Characters_Button.gif" alt="Characters_Button"></a>
+		<a href="cityscape.shtml"><img src="_derived/gallery.htm_txt_Cityscape_Button.gif" alt="Cityscape_Button"></a>
+		<a href="encaustic.shtml"><img src="_derived/gallery.htm_txt_Encaustic_Button.gif" alt="Encaustic_Button"></a>
+		<a href="florals.shtml"><img src="_derived/gallery.htm_txt_Florals_Button.gif" alt="Florals_Button"></a>
+		<a href="global.shtml"><img src="_derived/gallery.htm_txt_Global_Button.gif" alt="Global_Button."></a>
+		<a href="graphics.shtml"><img src="_derived/gallery.htm_txt_Graphics_Button.gif" alt="Graphics_Button"></a>
+		<a href="guitars.shtml"><img src="_derived/gallery.htm_txt_Guitars_Button.gif" alt="Guitars_Button"></a>
+		<a href="horses.shtml"><img src="_derived/gallery.htm_txt_Horses_Button.gif" alt="Horses_Button"></a>
+		<a href="inkscape.shtml"><img src="_derived/gallery.htm_txt_Inkscape_Button.gif" alt="Inkscape_Button"></a>
+		<a href="kitchen.shtml"><img src="_derived/gallery.htm_txt_Kitchen_Button.gif" alt="Kitchen_Button"></a>
+		<a href="landscape.shtml"><img src="_derived/gallery.htm_txt_Landscape_Button.gif" alt="Landscape_Button"></a>
+		<a href="leaves.shtml"><img src="_derived/gallery.htm_txt_Leaves_Button.gif" alt="Leaves_Button"></a>
+		<a href="nudes.shtml"><img src="_derived/gallery.htm_txt_Nude_Button.gif" alt="Nude_Button"></a>
+		<a href="pots.shtml"><img src="_derived/gallery.htm_txt_Pots_Button.gif" alt="Vessels_Button"></a>
+		<a href="seascape.shtml"><img src="_derived/gallery.htm_txt_Seascape1_Button.gif" alt="Seascape1_Button"></a>
+		<a href="sumi.shtml"><img src="_derived/gallery.htm_txt_Sumi_Button.gif" alt="Sumi_Button"></a>
+		<a href="wine.shtml"><img src="_derived/gallery.htm_txt_Wine_Button.gif" alt="Wine_Button"></a>
+	</div>
+
+	<div style="height: 50px;"></div>
+
+	<div class="imghdr"><img src="images/FramedArtHead.gif" alt="FramedArtHead" width="425" height="65"></div>
+
+	<p>There are three link tiles below: <b>Framed Originals</b>, <b>Prints</b>, and <b>Framed Prints</b>. Many originals on this site are available already professionally custom framed. Since all originals are unique, the framing is designed to enhance and protect that art. Framing uses only preservation museum rag mats, starch hinges or edge strips, UV glass or museum glass, backing and hardware. <b>Prints</b> are open edition reproductions of originals from Wild Apple Graphics. <b>Framed Prints</b> are small 6" x 6" digital prints that are professionally matted with a 1" border and a small decorative frame by Designs Ink for $30.00 each. Special order Framed Prints are available as print-on-demand images from any square image of your choosing on this site, or click a tile below to view ready framed prints.</p>
+
+	<div style="height: 50px;"></div>
+
+	<div class="gallery">
+		<a href="framedoriginals.shtml"><img src="_derived/gallery.htm_txt_FramedOriginals_Button.gif" alt="FramedOriginals_Button"></a>
+		<a href="prints.shtml"><img src="_derived/gallery.htm_txt_Prints_Button.gif" alt="Prints_Button"></a>
+		<a href="framedprints.shtml"><img src="_derived/gallery.htm_txt_FramedPrints_Button.gif" alt="FramedPrints_Button"></a>
+	</div>
+
+	<div style="height: 50px;"></div>
+
+	<div class="imghdr"><img src="images/CommissionLicensingHead.gif" alt="CommissionLicensingHead" width="500" height="65"></div>
+
+	<p>Commissioned art is all one of a kind and designed specifically for each client's needs. All pieces are unique. If you have specific needs, sizes, or colors contact Chris about custom designed art uniquely created for your home or corporate office. Click the Commission Gallery tile below for some of Chris' favorite projects. Commission projects may be as small as one piece at 4&quot;x4&quot; or as large as a set of four 48&quot;x96&quot;.</p>
+	<p>Licensing opportunities are available for all of the art viewed on this site. Visit the gallery rooms above as well as the Prints and Licensing Galleries below for numerous styles and colors of everything from teapots to sumi-e florals. The open edition reproductions by Wild Apple Graphics in the Print Gallery are available to be licensed for anything other than open edition prints. Contact Chris at 661-821-2188 for additional information of email her from this site at info@designsinkart.com.</p>
+
+	<div style="height: 50px;"></div>
+
+	<div class="gallery">
+		<a href="commission.shtml"><img src="_derived/gallery.htm_txt_Comm_Button.gif" alt="Comm_Button"></a>
+		<a href="licensing.shtml"><img src="_derived/gallery.htm_txt_Licensing_Button.gif" alt="Licensing_Button"></a>
+	</div>
+
+	<div style="height: 50px;"></div>
+
+	<div class="imghdr"><img src="images/OrderingHead.gif" alt="OrderingHead" width="400" height="60"></div>
+	
+	<p>If you are interested in finding out more about a specific image as a retail buyer, collector or are a gallery interested in purchasing pieces for resale please contact us at info@designsinkart.com All prices listed are suggested retail, normal trade discounts apply to galleries and retailers with resale number and documentation.<br>Shipping is FOB Tehachapi, California shipped UPS or FedEx.</p>
+	<p>Framed open edition reproductions, digital canvases, and print-on-demand are also available from the companies and links below.</p>
+
+	<div style="height: 50px;"></div>
+		
+	<div class="links"><a href="http://www.allposters.com/-st/Chris-Paschke-Posters_c27232_.htm" target="_blank">All Posters</a></div>
+	<div class="links"><a href="http://www.art.com/gallery/id--a25385/chris-paschke-posters.htm" target="_blank">Art.com</a></div>
+	<div class="links"><a href="http://www.artlinewholesalers.com/artist-Chris-Paschke-3965.html" target="_blank">Artline Wholesalers</a></div>
+	<div class="links"><a href="http://fineartamerica.com/profiles/1-chris-paschke.html" target="_blank">Fine Art America</a></div>
+	<div class="links"><a href="http://www.fulcrumgallery.com/showsearch.aspx?s=chris%20paschke" target="_blank">Fulcrum Gallery</a></div>
+	<div class="links"><a href="https://www.framedart.com/showsearch.aspx?s=chris%20paschke" target="_blank">Framed Art</a></div>
+	<div class="links"><a href="https://www.greatbigcanvas.com/category/paschke-chris/" target="_blank">Great Big Canvas</a></div>
+	<div class="links"><a href="https://www.houzz.com/products/query/chris-paschke/nqrwns" target="_blank">Houzz</a></div>
+	<div class="links"><a href="https://www.icanvas.com/canvas-art-prints/artist/chris-paschke?product=canvas&sort=popular" target="_blank">iCanvas</a></div>
+	<div class="links"><a href="https://www.overstock.com/chris-paschke,/k,/results.html?SearchType=Header" target="_blank">Overstock.com</a></div>
+	<div class="links"><a href="http://www.prints.com/art.php?q=paschke&x=19&y=10&type=14" target="_blank">Prints.com</a></div>
+	<div class="links"><a href="https://www.walmart.com/search/?cat_id=0&query=chris+paschke" target="_blank">Walmart</a></div>
+	<div class="links"><a href="https://www.wayfair.com/keyword.php?keyword=chris+paschke&class_id=" target="_blank">Wayfair</a></div>
+
+		
+</body>
+
+<footer>
+	<!--#include virtual="/footer.htm"-->
+</footer>
+
+</html>

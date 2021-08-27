@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^chrispaschke.com [NC,OR]
+RewriteCond %{HTTP_HOST} ^designsinkpublishing.com [NC]
+RewriteRule ^(.*)$ https://www.designsinkart.com/$1 [L,R=301,NC]
+RewriteCond %{HTTPS} !=on
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
